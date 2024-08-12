@@ -27,5 +27,4 @@ I am a PhD student in Computer Science at the Stevens Institute of Technology, a
 
 
 # Services
-Conference Reviewer: 
-- Conference on Neural Information Processing Systems(NeurIPS) 2024
+Conference Reviewer: [NeurIPS 2024](https://neurips.cc/)
