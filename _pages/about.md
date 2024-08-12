@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am a PhD student in Computer Science at Stevens Institute of Technology, advised by [Professor Jie Shen](https://sites.google.com/site/jieshensjtu). Before that, I obtained my B.S. degree in Mathematics & Statistics from Imperial College London and M.S. degree in Spatial Economics from University of Southern California. My research interest includes machine learning theory and optimization. Currently I'm studying theoretical analysis of contrastive learning. 
+I'm a PhD student in Computer Science at Stevens Institute of Technology, advised by [Professor Jie Shen](https://sites.google.com/site/jieshensjtu). Before that, I obtained my B.S. degree in Mathematics & Statistics from Imperial College London and M.S. degree in Spatial Economics from University of Southern California. My research interest includes machine learning theory and optimization. Currently I'm studying theoretical analysis of contrastive learning. 
 
 # News
 
