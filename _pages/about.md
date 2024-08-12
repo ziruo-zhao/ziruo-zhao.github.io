@@ -1,13 +1,13 @@
 ---
-permalink: /
-title: ""
+permalink: /:About me/:About me/
+title: "About me"
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 
-permalink: /
+permalink: /:News/:News/
 title: "News"
 excerpt: ""
 author_profile: true
