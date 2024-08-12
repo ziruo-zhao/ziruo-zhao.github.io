@@ -18,15 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am a second year PhD student in Computer Science at the Stevens Institute of Technology, advised by Professor Jie Shen. Before that, I obtained my B.S. in Mathematics & Statistics from Imperial College London in 2019 and M.S. in Spatial Economics from University of Southern California in 2022. 
-
-My research interest is on machine learning theory.
+I am a first year PhD student in Computer Science at the Stevens Institute of Technology, advised by Professor Jie Shen. Before that, I obtained my B.S. in Mathematics & Statistics from Imperial College London and M.S. in Spatial Economics from University of Southern California. My research interest includes machine learning theory and contrastive learning. 
 
 # News
- 
+
 
 # Publications 
 
 
 # Services
-Conference Reviewer: NeurIPS 2024.
+Conference Reviewer: 
+- Conference on Neural Information Processing Systems(NeurIPS) 2024
